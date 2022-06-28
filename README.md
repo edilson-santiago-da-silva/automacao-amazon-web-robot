@@ -34,7 +34,7 @@ robot -d resultados amazon_teste_amazon02.robot
 ```
 ## 🎞visualização da Execução do projeto de uma forma mais simples em vídeo.(abra o link abaixo)
 
-- [🎬Publicação](https://www.linkedin.com/posts/edilson-santiago-da-silva-634588219_qa-testedesoftware-testes-activity-6919815605453799425-FTpS?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- [🎬Publicação](https://www.linkedin.com/posts/edilson-santiago-da-silva-634588219_qa-testedesoftware-testes-activity-6917693769563680768-3XJY?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 
 ## Autor
